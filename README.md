@@ -1,12 +1,19 @@
-![harshana-lk](https://user-images.githubusercontent.com/113384788/218322751-1f8f890a-4231-4ba1-a98d-2cdd723a80ae.gif)
+<p align="center">
+  <img width="40%" height="auto" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+</p>
 
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Harshana+Jayaweera+;Software+Engineer+Student;And+Full+Stack+Developer">
+</p>
 
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshana Jayaweera
 ==========================================================================================================================================
 
-Web Developer | Designer
+FullStack Developer | Web Developer | Designer
 ------------------------
 
 *   🌍  I'm based in Srilanka
