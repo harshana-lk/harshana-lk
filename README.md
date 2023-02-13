@@ -7,7 +7,7 @@ FullStack Developer | Web Developer | Designer
 
 
 *   🌍  I'm based in Srilanka
-*   ✉️  You can contact me at [harshanajayaweerayt@gmail.com](mailto:harshanajayaweerayt@gmail.com)
+*   ✉️  You can contact me at [here✌️](mailto:harshanajayaweerayt@gmail.com)
 *   🚀  I'm currently working on [BookieBook - POS](http://github.com/harshana-lk/BookShop-POS.git)
 *   🔭 I’m currently education on **[IJSE](https://www.ijse.lk/)**
 *   🧠  I'm learning Java Script
