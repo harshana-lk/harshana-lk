@@ -1,20 +1,10 @@
-<p align="center">
-  <img width="40%" height="auto" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-</p>
 
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Harshana+Jayaweera+;Software+Engineer+Student;And+Full+Stack+Developer">
-</p>
-
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshana Jayaweera
-==========================================================================================================================================
+<p><img align="left" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Harshana+Jayaweera+;Software+Engineer+Student;And+Full+Stack+Developer" /></p><br>
 
 FullStack Developer | Web Developer | Designer
 ------------------------
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 *   🌍  I'm based in Srilanka
 *   ✉️  You can contact me at [harshanajayaweerayt@gmail.com](mailto:harshanajayaweerayt@gmail.com)
@@ -55,8 +45,8 @@ FullStack Developer | Web Developer | Designer
   <a href="#"><img alt="JasperReport" src="https://custom-icon-badges.herokuapp.com/badge/-Jasper%20Report-4A8CCA"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-
 </p>
+
                     
 
 ## 🔗 Connect with Me
