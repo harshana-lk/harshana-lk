@@ -14,8 +14,7 @@ FullStack Developer | Web Developer | Designer
 *   🤝  I'm open to collaborating on React
 *   ⚡  I'm secretly Batman
 
-<a href="https://www.github.com/harshana-lk" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/harshana-lk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/harshana___lk" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/harshana___lk" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/harshana___lk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 
 </a><b>👨‍💻Skills</b>
