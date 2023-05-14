@@ -72,6 +72,8 @@ FullStack Developer | Web Developer | Designer
 
 <a href="http://www.github.com/harshana-lk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshana-lk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://app.daily.dev/harshana-lk"><img src="https://api.daily.dev/devcards/cba6105e48c24b7aa6f4345cb3c4d921.png?r=iag" width="400" alt="Harshana Jayaweera's Dev Card"/></a>
+
 <b>SupportMe👇</b>
 
 <a href="https://www.buymeacoffee.com/harshanalk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
