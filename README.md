@@ -7,11 +7,11 @@ FullStack Developer | Web Developer | Designer
 
 
 *   🌍  I'm based in Srilanka
-*   ✉️  You can contact me at [here✌️](mailto:harshanajayaweerayt@gmail.com)
-*   🚀  I'm currently working on [BookieBook - POS](http://github.com/harshana-lk/BookShop-POS.git)
+*   ✉️  You can contact me at [here✌️](mailto:mailtoharshanaonlive@gmail.com)
+*   🚀  I'm currently working on [Weather-App](https://github.com/harshana-lk/Weather-App.git)
 *   🔭 I’m currently education on **[IJSE](https://www.ijse.lk/)**
-*   🧠  I'm learning Java Script
-*   🤝  I'm open to collaborating on React
+*   🧠  I'm learning React JS
+*   🤝  I'm open to collaborating on Express JS
 *   ⚡  I'm secretly Batman
 
 <a href="https://www.twitter.com/harshana___lk" target="_blank" rel="noreferrer"><img
