@@ -41,19 +41,12 @@ FullStack Developer | Web Developer | Designer
 <b>My GitHub Stats</b>
 -----------------------
 
-<!-- <a href="https://github.com/harshana-lk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshana-lk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![harshana-lk's Stats](https://github-readme-stats.vercel.app/api?username=harshana-lk&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-<a href="http://www.github.com/harshana-lk"><img src="https://github-readme-stats.vercel.app/api?username=harshana-lk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harshana-lk's GitHub stats" /></a> -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=harshana-lk" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=harshana-lk" height="150" alt="languages graph"  />
-</div>
+![harshana-lk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshana-lk&theme=react&hide_border=true)
 
-<a href="http://www.github.com/harshana-lk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshana-lk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![harshana-lk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshana-lk&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-<a href="http://www.github.com/harshana-lk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshana-lk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://app.daily.dev/harshana-lk"><img src="https://api.daily.dev/devcards/cba6105e48c24b7aa6f4345cb3c4d921.png?r=iag" width="400" alt="Harshana Jayaweera's Dev Card"/></a>
 
 <b>SupportMe👇</b>
 
