@@ -20,6 +20,7 @@
 harshana = {
     "name": "Harshana Jayaweera",
     "age": 23,
+    "from": Colombo/Sri-Lanka,
     "pronouns": ["he", "him"],
     "personal_info": {
         "favorite_color": "Black",
