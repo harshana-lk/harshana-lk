@@ -19,7 +19,7 @@
 ```python
 harshana = {
     "name": "Harshana Jayaweera",
-    "age": 23,
+    "age": 26,
     "from": Colombo/Sri-Lanka,
     "pronouns": ["he", "him"],
     "personal_info": {
